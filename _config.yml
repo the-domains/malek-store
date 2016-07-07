@@ -5,10 +5,10 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.341216
-  lightness: 0.511261
-  rhythmicContrast: 0.496621
-  saturation: 0.511261
+  brandStrength: 0.136261
+  lightness: 0.361486
+  rhythmicContrast: 0.370495
+  saturation: 0.333333
 layout_spectrum: 0.407657
 name: 'malek store '
 typography_spectrum: 0.796171
