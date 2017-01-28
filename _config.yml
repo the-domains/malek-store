@@ -1,29 +1,41 @@
 name: 'malek store '
-favicon: null
-layout_spectrum: 0.407657
-typography_spectrum: 1
-title: MALEK STORE
-cta:
-  domain: null
-  bucket: null
-  version: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b16dd9b-ffc9-4cc4-96e5-035223c7db4a.jpg
+layout_spectrum: 0.34550630155692597
+typography_spectrum: 0.8260592170823181
+cta: {}
 analytics:
-  google: null
-  facebook: null
-  twitter: null
+  facebook: ''
+  google: UA-80814309-2
+  twitter: ''
 opengraph:
-  image: null
-  type: null
-  appId: null
+  type: ''
+  appId: ''
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/963c7d3f-caf6-4e68-b9cb-9fa27ca67b3a.jpg
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.136261
-  lightness: 0.287162
-  saturation: 0.207207
-  rhythmicContrast: 0.307432
-purpose: []
+    - '#A7304F'
+    - '#F46D8D'
+    - '#F39EB5'
+    - '#081028'
+    - '#F0CEB7'
+  brandStrength: 1
+  lightness: 0.06195282049670742
+  saturation: 0.956486895185259
+  rhythmicContrast: 0.8155002376603167
+purpose:
+  - type: contact
+    label: Call 01100542030
+    url: 'tel:01100542030'
+title: MALEK STORE
+description: ''
+author: {}
+content_rating:
+  adult: false
+navigation:
+  - name: 'Our Facebook page '
+    url: 'https://www.facebook.com/abumalekstore/'
+    type: external
+content: []
+github: true
