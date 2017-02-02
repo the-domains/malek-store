@@ -1,8 +1,21 @@
+layout_spectrum: 0.4007294313889919
+typography_spectrum: 0.2782483442550949
+color:
+  brandColors:
+    - '#A7304F'
+    - '#F46D8D'
+    - '#F39EB5'
+    - '#081028'
+    - '#F0CEB7'
+  brandStrength: 0.3258149856533671
+  lightness: 0.22789879641661623
+  saturation: 0.9843911337645005
+  rhythmicContrast: 0.44939563036628877
+coverPrefs:
+  filter: false
 name: 'malek store '
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b16dd9b-ffc9-4cc4-96e5-035223c7db4a.jpg
-layout_spectrum: 0.34550630155692597
-typography_spectrum: 0.8260592170823181
 cta: {}
 analytics:
   facebook: ''
@@ -13,17 +26,6 @@ opengraph:
   appId: ''
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/963c7d3f-caf6-4e68-b9cb-9fa27ca67b3a.jpg
-color:
-  brandColors:
-    - '#A7304F'
-    - '#F46D8D'
-    - '#F39EB5'
-    - '#081028'
-    - '#F0CEB7'
-  brandStrength: 1
-  lightness: 0.06195282049670742
-  saturation: 0.956486895185259
-  rhythmicContrast: 0.8155002376603167
 purpose:
   - type: contact
     label: Call 01100542030
