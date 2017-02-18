@@ -1,5 +1,5 @@
-layout_spectrum: 0.4007294313889919
-typography_spectrum: 0.2782483442550949
+layout_spectrum: 0.9135050933175527
+typography_spectrum: 0.9418347846689901
 color:
   brandColors:
     - '#A7304F'
@@ -7,10 +7,10 @@ color:
     - '#F39EB5'
     - '#081028'
     - '#F0CEB7'
-  brandStrength: 0.3258149856533671
-  lightness: 0.22789879641661623
-  saturation: 0.9843911337645005
-  rhythmicContrast: 0.44939563036628877
+  brandStrength: 0.2675217034427984
+  lightness: 0.26819893919005255
+  saturation: 0.3377904690665626
+  rhythmicContrast: 0.7278887834886808
 coverPrefs:
   filter: false
 name: 'malek store '
