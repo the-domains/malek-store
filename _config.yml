@@ -1,5 +1,18 @@
+name: 'malek store '
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b16dd9b-ffc9-4cc4-96e5-035223c7db4a.jpg
 layout_spectrum: 0.9135050933175527
 typography_spectrum: 0.9418347846689901
+cta: {}
+analytics:
+  facebook: ''
+  google: UA-80814309-2
+  twitter: ''
+opengraph:
+  type: ''
+  appId: ''
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/963c7d3f-caf6-4e68-b9cb-9fa27ca67b3a.jpg
 color:
   brandColors:
     - '#A7304F'
@@ -11,25 +24,13 @@ color:
   lightness: 0.26819893919005255
   saturation: 0.3377904690665626
   rhythmicContrast: 0.7278887834886808
-coverPrefs:
-  filter: false
-name: 'malek store '
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b16dd9b-ffc9-4cc4-96e5-035223c7db4a.jpg
-cta: {}
-analytics:
-  facebook: ''
-  google: UA-80814309-2
-  twitter: ''
-opengraph:
-  type: ''
-  appId: ''
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/963c7d3f-caf6-4e68-b9cb-9fa27ca67b3a.jpg
 purpose:
   - type: contact
     label: Call 01100542030
     url: 'tel:01100542030'
+  - type: contact
+    label: Email us
+    url: 'mailto:ahmdunis5@gmail.com'
 title: MALEK STORE
 description: ''
 author: {}
